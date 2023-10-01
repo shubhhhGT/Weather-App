@@ -49,13 +49,11 @@ Clone this repository to your local machine:
 
 `git clone https://github.com/your-username/weather-app.git`
 
-git clone https://github.com/your-username/weather-app.git
 
 Navigate to the project directory:
 
 `cd weather-app`
 
-cd weather-app
 
 Open the index.html file in your preferred web browser.
 
