@@ -1,9 +1,9 @@
 # Weather-App
-**Project Description**
+### Project Description ###
 
 The Weather App is a web-based application that allows users to check current weather information for a location. This project consists of HTML,JavaScript,and CSS components that work together to provide a user-friendly weather experience.
 
-**Project Structure**
+### Project Structure ###
 
 The Weather App is organized into three main components:
 
@@ -33,7 +33,7 @@ The style.css file is responsible for styling the entire application. It provide
 - Styling for tab navigation,buttons,containers,and weather display elements.
 - Ensures a visually appealing and user-friendly layout.
 
-**Features**
+### Features ###
 
 - Weather Information: Get up-to-date weather data,including temperature,wind speed, humidity,and cloudiness.
 - Tab Navigation: Easily switch between user weather and search weather functionality using tabs.
@@ -41,7 +41,7 @@ The style.css file is responsible for styling the entire application. It provide
 - City Search: Search for weather information by entering a city name in the search form.
 - Responsive Design: Enjoy a consistent and visually appealing experience across various devices.
 
-**Getting Started**
+### Getting Started ###
 
 To set up the Weather App locally,follow these steps:
 
@@ -59,7 +59,7 @@ cd weather-app
 
 Open the index.html file in your preferred web browser.
 
-**Usage**
+### Usage ###
 
 The Weather App is designed for ease of use. Follow these instructions to use the app:
 
@@ -68,7 +68,7 @@ The Weather App is designed for ease of use. Follow these instructions to use th
 - If you click "Search Weather,"you can enter the name of a city and click the search button. The app will retrieve weather data for the specified city.
 - Enjoy the visually appealing weather information presented on the screen.
 
-**Contributing**
+### Contributing ###
 
 Contributions to enhance or customize the Weather App are welcome!If you'd like to contribute to the project,please follow these steps:
 
